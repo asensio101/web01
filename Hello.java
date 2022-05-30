@@ -21,4 +21,5 @@ hello git
 hello git
 hello git
 hello git
-hello git master test
+hello git HOT-fix test
+hello git hot-fix test
